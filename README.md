@@ -1,4 +1,10 @@
 <div align="center">
+  <img height="150" src="https://giphy.com/embed/SqMQCnUleC5zuj9BJz" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KonnichiwaFestival-SqMQCnUleC5zuj9BJz"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/yasmin-kimura-b374b72b7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -43,3 +49,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   Meus Status:</h3>
+
+###
